@@ -1,5 +1,5 @@
 pysqlite3
-pysqlite3-wheels
+pysqlite3-wheels==0.5.0
 pandas
 seaborn
 matplotlib
