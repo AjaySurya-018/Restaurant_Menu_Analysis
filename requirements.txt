@@ -1,5 +1,4 @@
-streamlit
-sqlite3
+pysqlite3
 pandas
 seaborn
 matplotlib
